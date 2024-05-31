@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reviews</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="reviews.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Reviews</h1>
+    <nav>
+      <a href="index.html">Submit a Review</a>
+    </nav>
+  </header>
+  <main>
+    <section id="search-section">
+      <h2>Search Reviews</h2>
+      <form id="search-form">
+        <label for="search-game-title">Game Title:</label>
+        <input type="text" id="search-game-title" name="search-game-title" required>
+        <button type="submit">Search</button>
+      </form>
+    </section>
+    <section id="reviews">
+      <!-- Reviews will be loaded here -->
+    </section>
+    <p id="error-message" class="hidden"></p>
+  </main>
+  <footer>
+    <p>Images are cited in the page source. &copy; 2024</p>
+  </footer>
+</body>
+</html>

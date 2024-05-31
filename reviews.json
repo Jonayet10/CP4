@@ -1,0 +1,32 @@
+[
+  {
+    "gameTitle": "Spiderman",
+    "content": "Great",
+    "rating": "4"
+  },
+  {
+    "gameTitle": "God of War",
+    "content": "Good combat!",
+    "rating": "8"
+  },
+  {
+    "gameTitle": "Elden Ring",
+    "content": "Mid",
+    "rating": "6"
+  },
+  {
+    "gameTitle": "Elden Ring",
+    "content": "Pretty good",
+    "rating": "8"
+  },
+  {
+    "gameTitle": "AC Origins",
+    "content": "Lets goooooo, pretty good i gotta say",
+    "rating": "9"
+  },
+  {
+    "gameTitle": "Deus Ex",
+    "content": "good stealth",
+    "rating": "8"
+  }
+]
